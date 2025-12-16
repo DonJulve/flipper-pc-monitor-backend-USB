@@ -1,4 +1,4 @@
-# flipper-pc-monitor-backend-usb
+# Flipper-Zero-PC-Monitor-USB-Backend
 Backend for **PC Monitor (USB Version)** written in Rust.
 
 This backend collects system statistics (CPU, RAM, GPU) and sends them to the Flipper Zero via USB Serial (CDC).
